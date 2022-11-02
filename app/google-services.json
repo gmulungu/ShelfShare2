@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "521240228919",
+    "firebase_url": "https://auth-9454c-default-rtdb.firebaseio.com",
+    "project_id": "auth-9454c",
+    "storage_bucket": "auth-9454c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521240228919:android:36cb2248bbea3a621c3bb2",
+        "android_client_info": {
+          "package_name": "com.example.shelfshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521240228919-s9creunmofc0v534f30uge436r1an3dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUiM30tPRSI7-ybwxKB-YSLR3QuLqy4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521240228919-s9creunmofc0v534f30uge436r1an3dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521240228919:android:6ab1e63cd803e6c61c3bb2",
+        "android_client_info": {
+          "package_name": "com.varsitycollege.shelfshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521240228919-s9creunmofc0v534f30uge436r1an3dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUiM30tPRSI7-ybwxKB-YSLR3QuLqy4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521240228919-s9creunmofc0v534f30uge436r1an3dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521240228919:android:5ae0be6e4d413d9d1c3bb2",
+        "android_client_info": {
+          "package_name": "com.varsitycollege.shelfshare2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521240228919-s9creunmofc0v534f30uge436r1an3dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUiM30tPRSI7-ybwxKB-YSLR3QuLqy4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521240228919-s9creunmofc0v534f30uge436r1an3dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
